@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+
+# virtualenv
+.venv
+venv/
+
+# db
+sqlite.db
+data
+migrations/versions/*
